@@ -1,0 +1,7 @@
+PyVISA-py # pour la communication avec les instruments via USB/GPIB/RS232
+#serial # pour la communication série
+pyserial # pour la communication série
+Numpy # pour le calcul numérique
+Matplotlib # pour la visualisation
+zeroconf # pour la découverte de services réseau
+pyvisa # pour la communication avec les instruments via VISA
